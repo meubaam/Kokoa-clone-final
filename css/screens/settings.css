@@ -1,0 +1,19 @@
+.settings__setting {
+    padding: 20px 0px;
+    border-bottom: var(--main--border);
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.settings__setting i {
+    margin-right: 10px;
+    font-size: 22px;
+    color: #2e363e;
+}
+
+.settings__setting div:last-child {
+    color: var(--greytext);
+    font-size: 14px;
+}
